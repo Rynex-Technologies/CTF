@@ -1,0 +1,16 @@
+{
+  "name": "Phase Echo",
+  "organization": "Rynex Technologies",
+  "category": "Cryptography",
+  "difficulty": "Insane",
+  "target_audience": "Advanced CTF players and experienced cryptographers",
+  "expected_solve_time": "4-12 hours",
+  "flag_format": "RTCTF{...}",
+  "files": [
+    "README.md",
+    "challenge.py",
+    "output.txt",
+    "requirements.txt",
+    "Dockerfile"
+  ]
+}
