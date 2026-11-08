@@ -4,7 +4,7 @@ This public repository contains participant-ready challenge releases maintained 
 
 ## Current challenges
 
-- [**Phase Echo**](Challenges/PhaseEcho/) — Cryptography, Insane. An offline ECC/lattice and authenticated-encryption challenge.
+- [**Phase Echo archive**](PhaseEcho.zip) — Cryptography, Insane. An offline ECC/lattice and authenticated-encryption challenge. Extract with the password shared by the team.
 - [Cipherfall archive](Cipherfall.zip) — Reverse Engineering practice challenge. Archive password is shared separately by the team.
 
 ## Cipherfall
