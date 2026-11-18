@@ -4,10 +4,22 @@ This public repository contains participant-ready challenge releases maintained 
 
 ## Current challenges
 
+- [**The Forgotten Opcode archive**](ForgottenOpcode.zip) — Reverse Engineering, Medium. EVM runtime bytecode analysis.
 - [**Phase Echo archive**](PhaseEcho.zip) — Cryptography, Insane. An offline mathematical cryptanalysis challenge.
 - [**Cipherfall archive**](Cipherfall.zip) — Reverse Engineering, Hard. A Linux x86-64 binary analysis challenge.
 
-Both archives use the password: `rynextechnologies`.
+All archives use the password: `rynextechnologies`.
+
+## The Forgotten Opcode
+
+- **Category / difficulty:** Reverse Engineering / Medium
+- **Challenge archive:** [`ForgottenOpcode.zip`](ForgottenOpcode.zip)
+- **Contents:** Participant README, runtime bytecode, instance details, and license.
+- **Interface:** `validate(bytes) returns (bool)`
+
+Extract `ForgottenOpcode.zip` with the password above and follow its `README.md`.
+The package includes an Anvil-based local instance; no source code, flag, or
+write-up is included. The flag format is `RTCTF{...}`.
 
 ## Phase Echo
 
