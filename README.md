@@ -14,13 +14,13 @@ All archives use the password: `rynextechnologies`.
 
 - **Category / difficulty:** Reverse Engineering / Medium
 - **Challenge archive:** [`ForgottenOpcode.zip`](ForgottenOpcode.zip)
-- **Contents:** Participant README, runtime bytecode, instance details, and license.
+- **Contents:** Participant README, runtime bytecode, instance details, offline runner, and license.
 - **Interface:** `validate(bytes) returns (bool)`
 
 Extract `ForgottenOpcode.zip` with the password above and follow its `README.md`.
 The package includes `run_offline.py`, so the challenge runs fully offline on
-any machine with Python 3; an optional Anvil/Docker instance is also
-described. No source code, flag, or write-up is included. The flag format is
+any machine with Python 3. No node, network service, or external tooling is
+required. No source code, flag, or write-up is included. The flag format is
 `RTCTF{...}`.
 
 ## Phase Echo
