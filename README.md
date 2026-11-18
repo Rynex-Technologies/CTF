@@ -18,8 +18,10 @@ All archives use the password: `rynextechnologies`.
 - **Interface:** `validate(bytes) returns (bool)`
 
 Extract `ForgottenOpcode.zip` with the password above and follow its `README.md`.
-The package includes an Anvil-based local instance; no source code, flag, or
-write-up is included. The flag format is `RTCTF{...}`.
+The package includes a pure-Python runner so the challenge runs fully offline
+on any machine with Python 3; an optional Anvil/Docker instance is also
+described. No source code, flag, or write-up is included. The flag format is
+`RTCTF{...}`.
 
 ## Phase Echo
 
