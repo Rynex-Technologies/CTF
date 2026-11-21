@@ -4,11 +4,24 @@ This public repository contains participant-ready challenge releases maintained 
 
 ## Current challenges
 
+- [**GHOST ISA archive**](GhostISA.zip) — Reverse Engineering, Hard. Custom virtual-machine bytecode analysis.
 - [**The Forgotten Opcode archive**](ForgottenOpcode.zip) — Reverse Engineering, Medium. EVM runtime bytecode analysis.
 - [**Phase Echo archive**](PhaseEcho.zip) — Cryptography, Insane. An offline mathematical cryptanalysis challenge.
 - [**Cipherfall archive**](Cipherfall.zip) — Reverse Engineering, Hard. A Linux x86-64 binary analysis challenge.
 
 All archives use the password: `rynextechnologies`.
+
+## GHOST ISA
+
+- **Category / difficulty:** Reverse Engineering / Hard
+- **Expected solve time:** 2–5 hours for experienced players
+- **Challenge archive:** [`GhostISA.zip`](GhostISA.zip)
+- **Contents:** Compiled VM interpreter, compiled validator program, and participant README.
+
+Extract `GhostISA.zip` with the password above and follow its `README.txt`.
+The package is fully offline and requires only a 64-bit Linux system with a
+standard C runtime. No network access, Docker, or additional packages are
+needed. No source code, ISA documentation, flag, or write-up is included.
 
 ## The Forgotten Opcode
 
