@@ -1,0 +1,10 @@
+Type: OSINT
+Name: Follow the Flow
+Difficulty: Hard
+Chain the last with the next.
+
+Flag Format: RTCTF{Location_District_Place_Channel_Architect}
+Use underscores instead of spaces. Write names in English spelling as found in your sources.
+
+Description:
+Identify the district from the location shown in this picture. In that district, near Northern Bypass Road, there is a heritage site once associated with the region's rulers. An old water channel was built to bring water to this site. A proposal to redesign this channel as a linear park and historic trail is publicly available today. What is the name of the architect/urban designer who created this proposal?
