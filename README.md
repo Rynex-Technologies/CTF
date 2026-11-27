@@ -4,7 +4,7 @@ This public repository contains participant-ready challenge releases maintained 
 
 ## Current challenges
 
-- [**Follow the Flow**](FollowTheFlow/) — OSINT, Hard. Image-based location and source-chaining challenge.
+- [**Follow the Flow archive**](FollowTheFlow.zip) — OSINT, Hard. Image-based location and source-chaining challenge.
 - [**GHOST ISA archive**](GhostISA.zip) — Reverse Engineering, Hard. Custom virtual-machine bytecode analysis.
 - [**The Forgotten Opcode archive**](ForgottenOpcode.zip) — Reverse Engineering, Medium. EVM runtime bytecode analysis.
 - [**Phase Echo archive**](PhaseEcho.zip) — Cryptography, Insane. An offline mathematical cryptanalysis challenge.
@@ -15,7 +15,7 @@ All archives use the password: `rynextechnologies`.
 ## Follow the Flow
 
 - **Category / difficulty:** OSINT / Hard
-- **Challenge folder:** [`FollowTheFlow/`](FollowTheFlow/)
+- **Challenge archive:** [`FollowTheFlow.zip`](FollowTheFlow.zip)
 - **Contents:** Challenge image PDF and participant brief (`OSINT.txt`).
 
 Open `challenge.pdf` and follow the brief in `OSINT.txt`. The challenge requires identifying the pictured location, then chaining district, heritage site, historic water channel, and designer through public sources. No solution or flag is included.
